@@ -1,0 +1,94 @@
+{
+  "fragrances": [
+    {
+      "id": "dior-sauvage-parfum",
+      "accords": [
+        { "name": "Calabrian Bergamot", "intensity": 86 },
+        { "name": "Smoked Vanilla", "intensity": 74 },
+        { "name": "Cedar", "intensity": 61 }
+      ],
+      "notes": {
+        "top": ["Calabrian Bergamot", "Mandarin"],
+        "heart": ["Sri Lankan Sandalwood", "Lavender"],
+        "base": ["Vanilla Absolute", "Cedar", "Tonka Bean"]
+      },
+      "story": "Fresh citrus collides with smoky resins for a darker Sauvage signature.",
+      "rating": {
+        "longevity": 0.9,
+        "sillage": 0.78
+      }
+    },
+    {
+      "id": "valentino-uomo-born-in-roma",
+      "accords": [
+        { "name": "Violet Leaf", "intensity": 82 },
+        { "name": "Ginger", "intensity": 65 },
+        { "name": "Vetiver", "intensity": 58 }
+      ],
+      "notes": {
+        "top": ["Violet Leaf", "Smoked Ginger"],
+        "heart": ["Sage", "Iris"],
+        "base": ["Vetiver", "Vanilla", "Guaiac Wood"]
+      },
+      "story": "Mineral freshness meets couture woods inspired by Rome at sunset.",
+      "rating": {
+        "longevity": 0.78,
+        "sillage": 0.7
+      }
+    },
+    {
+      "id": "ysl-libre-eau-de-parfum",
+      "accords": [
+        { "name": "Lavender", "intensity": 80 },
+        { "name": "Orange Blossom", "intensity": 72 },
+        { "name": "Vanilla", "intensity": 64 }
+      ],
+      "notes": {
+        "top": ["French Lavender", "Mandarin", "Blackcurrant"],
+        "heart": ["Moroccan Orange Blossom", "Jasmine Sambac"],
+        "base": ["Vanilla", "Musk", "Ambergris"]
+      },
+      "story": "A power floral balancing masculine lavender with luminous florals.",
+      "rating": {
+        "longevity": 0.83,
+        "sillage": 0.76
+      }
+    },
+    {
+      "id": "le-labo-santal-33",
+      "accords": [
+        { "name": "Cardamom", "intensity": 68 },
+        { "name": "Sandalwood", "intensity": 85 },
+        { "name": "Leather", "intensity": 59 }
+      ],
+      "notes": {
+        "top": ["Cardamom", "Violet Accord"],
+        "heart": ["Iris", "Papyrus", "Sandalwood"],
+        "base": ["Cedarwood", "Leather", "Musk"]
+      },
+      "story": "Dry sandalwood and papyrus evoking open desert fires and faded denim.",
+      "rating": {
+        "longevity": 0.87,
+        "sillage": 0.69
+      }
+    },
+    {
+      "id": "mfk-baccarat-rouge-540",
+      "accords": [
+        { "name": "Saffron", "intensity": 92 },
+        { "name": "Ambergris", "intensity": 75 },
+        { "name": "Cedar", "intensity": 66 }
+      ],
+      "notes": {
+        "top": ["Saffron", "Jasmine"],
+        "heart": ["Amberwood", "Ambergris"],
+        "base": ["Cedar", "Fir Resin", "Musk"]
+      },
+      "story": "A glowing crystal of amber that feels both airy and addictively sweet.",
+      "rating": {
+        "longevity": 0.95,
+        "sillage": 0.88
+      }
+    }
+  ]
+}
